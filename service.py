@@ -34,7 +34,7 @@ sys.path.append(__resource__)
 
 from SubsceneUtilities import log, geturl, get_language_codes, subscene_languages, get_episode_pattern
 
-main_url = "https://subscene.com"
+main_url = "https://notsubscene.online/"
 
 aliases = {
     "marvels agents of shield" : "Agents of Shield",
