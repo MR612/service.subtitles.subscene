@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="service.subtitles.subscene"
-       name="Subscene.com"
+<addon id="service.subtitles.notsubscene"
+       name="Not Subscene"
        version="1.7.1"
        provider-name="CrowleyAJ">
     <requires>
